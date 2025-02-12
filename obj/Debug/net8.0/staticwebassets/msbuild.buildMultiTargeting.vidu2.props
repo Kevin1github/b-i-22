@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vidu2.props" />
+</Project>
